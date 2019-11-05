@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sensor Availability</string>
+    <string-array name="sensorList">
+        <item>Gyroscope</item>
+        <item>Heart Rate</item>
+        <item>Accelerometer</item>
+        <item>Motion Detector</item>
+        <item>Proximity</item>
+        <item>Step Counter</item>
+        <item>Ambient Temperature</item>
+        <item>Light</item>
+    </string-array>
+</resources>
